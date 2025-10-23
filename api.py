@@ -109,10 +109,10 @@ def main():
     elif escolha == "4":
         mostrar_resumo()
     elif escolha == "5":
-        print("Saindo... até mais!")
+        print("até mais!")
         return
     else:
-        print("Opção inválida, tente novamente!")
+        print("opção inválida, tente novamente!")
 
     main()  
 
